@@ -1,6 +1,5 @@
 # package_device_info
-
-A new Flutter project.
+package_info_plusとdevice_info_plusをつかって端末情報
 
 ## Getting Started
 
