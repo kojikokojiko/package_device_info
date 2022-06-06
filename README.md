@@ -1,5 +1,5 @@
 # package_device_info
-package_info_plusとdevice_info_plusをつかって端末情報
+package_info_plusとdevice_info_plusをつかって端末情報表示
 
 ## Getting Started
 
